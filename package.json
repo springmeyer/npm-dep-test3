@@ -8,7 +8,7 @@
     "url": "git://github.com/mapbox/npm-dep-test1.git"
   },
   "dependencies": {
-    "npm-dep-test1": "https://github.com/springmeyer/npm-dep-test1/tarball/master"
+    "npm-dep-test1": "~0.1.0"
   },
   "main":"package.json"
 }
