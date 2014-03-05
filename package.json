@@ -1,0 +1,14 @@
+{
+  "name": "npm-dep-test3",
+  "description": "just a test",
+  "version": "0.1.0",
+  "author": "Dane Springmeyer <dane@mapbox.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mapbox/npm-dep-test1.git"
+  },
+  "dependencies": {
+    "npm-dep-test1": "https://github.com/springmeyer/npm-dep-test1/tarball/master"
+  },
+  "main":"package.json"
+}
